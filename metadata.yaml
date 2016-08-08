@@ -1,0 +1,31 @@
+_repo: Sketches-and-Tales-Illustrative-of-Life-in-the-Backwoods-of-New-BrunswickOf-Seven-Years-in-Th__12675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beavan, F. (Frederick), Mrs.
+    alias: Shaw, Emily Elizabeth
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '4495'
+    url: http://www.gutenberg.org/2009/agents/4495
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- New Brunswick -- History -- 19th century'
+- !lcsh 'New Brunswick -- Social life and customs'
+- !lcsh 'Beavan, F. (Frederick), Mrs., 1818-1897 -- Homes and haunts -- New Brunswick'
+- !lcc 'F1001'
+- GITenberg
+title: 'Sketches and Tales Illustrative of Life in the Backwoods of New Brunswick
+
+  Gleaned from Actual Observation and Experience During a Residence
+
+  Of Seven Years in That Interesting Colony'
+url: http://www.gutenberg.org/ebooks/12675
